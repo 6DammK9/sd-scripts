@@ -1,3 +1,9 @@
+# Custom trainer dedicated for AstolfoXL #
+
+Please checkout brach [train-native](https://github.com/6DammK9/sd-scripts/tree/train-native).
+
+------
+
 This repository contains training, generation and utility scripts for Stable Diffusion.
 
 [__Change History__](#change-history) is moved to the bottom of the page. 
